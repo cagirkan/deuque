@@ -5,7 +5,7 @@
         <form action="">
             <label for="question">Question 1:</label><br>
             <textarea class="mt-2" name="answer1" id="answer1" cols="80" rows="1" placeholder="bla bla bla"></textarea><br>
-            <input class="m-3" type="submit" value="Submit>
+            <input class="m-3" type="submit" value="Submit">
         </form>
     </div>
 </div>
