@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a4c4ca6-1a04-4254-b4b3-e6246fd7d6a2" name="Default Changelist" comment="login">
-      <change afterPath="$PROJECT_DIR$/application/views/questionnaires.php" afterDir="false" />
+    <list default="true" id="7a4c4ca6-1a04-4254-b4b3-e6246fd7d6a2" name="Default Changelist" comment="questionnaires page">
+      <change afterPath="$PROJECT_DIR$/application/views/questionnaire.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/routes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/controllers/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/main.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/questionnaires.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/questionnaires.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
       <workItem from="1610748549061" duration="53000" />
       <workItem from="1610748624781" duration="1453000" />
       <workItem from="1610800889202" duration="4887000" />
-      <workItem from="1610806705944" duration="1600000" />
+      <workItem from="1610806705944" duration="5178000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1610563343217</created>
@@ -165,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610804668234</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="questionnaires page">
+      <created>1610809715536</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610809715536</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +209,8 @@
     <MESSAGE value="Revert &quot;Delete .idea directory&quot;&#10;&#10;This reverts commit ddca9382" />
     <MESSAGE value="Revert &quot;Delete .idea directory&quot;&#10;&#10;This reverts commit ddca9382&#10;&#10;route ayarlandı" />
     <MESSAGE value="login" />
-    <option name="LAST_COMMIT_MESSAGE" value="login" />
+    <MESSAGE value="questionnaires page" />
+    <option name="LAST_COMMIT_MESSAGE" value="questionnaires page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
